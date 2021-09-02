@@ -34,3 +34,4 @@ async def broadcast(_, message: Message):
             except:
                 failed=failed+1
         await message.reply_text(f"`gcast berhasil` \n\n**terkirim ke:** `{sent}` obrolan \n**gagal di:** {failed} obrolan")
+.
