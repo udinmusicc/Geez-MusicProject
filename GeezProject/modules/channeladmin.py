@@ -145,3 +145,4 @@ async def admincache(client, message: Message):
         ],
     )
     await message.reply_text("❇️ Admin cache refreshed!")
+.
