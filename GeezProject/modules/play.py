@@ -13,7 +13,7 @@
 #
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
+.
 
 import json
 import os
@@ -22,7 +22,7 @@ from typing import Callable
 
 import aiofiles
 import aiohttp
-import ffmpeg
+import ffmp
 import requests
 import wget
 from PIL import Image, ImageDraw, ImageFont
