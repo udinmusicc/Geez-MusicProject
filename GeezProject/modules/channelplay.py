@@ -57,7 +57,7 @@ from GeezProject.services.converter.converter import convert
 from GeezProject.services.downloaders import youtube
 from GeezProject.services.queues import queues
 
-chat_id = None
+chat_id = None.
 
 
 
